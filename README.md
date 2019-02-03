@@ -1,6 +1,7 @@
 Mech battle.
 
 Mech battle game. Player controls giant robot and must destroy all other robots by nuclear rockets.
+
 Controls:
 - lmb - aim to point
 - rmb - move to point
